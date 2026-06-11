@@ -5,17 +5,17 @@ Hi, I'm Simon, a Norwegian student, triathlete, and aspiring mechatronics & aero
 ## Currently working on ...
 
 - `ICARUS`, a JARVIS-inspired agentic AI platform, made for STEM-related tasks.
-- `DuraPy`, The Durendal Engineering Python Collection - A huge collection of tools and resources written in Python for math, physics, etc.
-- `Vanguard`, an Obsidian-inspired knowledge database, with the ability to pull articles from the internet, formatting them to Markdown, read/write, etc.
+- `DuraPy`, The Durendal Engineering Python Collection - A huge collection of tools and resources written in Python for math, physics, robotics, etc.
+- `Vanguard`, an Obsidian-inspired knowledge database, with the ability to pull articles from the internet, formatting them to Markdown, read/write, train LLMs, etc.
 
 ## 🌱 I’m currently learning ...
 
 - AI, ML, and anything of that sort
-- Python, C, C++, Rust
+- Python, C, C++, Rust, Java
 - Embedded systems design
-- Circuit design and Control Theory
-- Electronics engineering basics
-- Mechatronics, Robotics and Aerospace basics
+- Circuit design and electronics engineering basics
+- Mechatronics, robotics and control theory
+- Aerospace and mechanical engineering basics
 - 3D-Printing and CAD (especially Fusion360)
 
 ## 👯 I’m looking to collaborate on ...
