@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-Hi, I'm Simon, a 17 year old Norwegian student, triathlete, and aspiring mechatronics & aerospace engineer. I build software, AI systems, robotics projects, and engineering tools to learn by doing. Most of my projects are part of a larger ecosystem under Durendal Engineering, where I explore the intersection of AI, software, robotics, and engineering.
+Hi, I'm Simon, a 17 year old Norwegian student, triathlete, and aspiring mechatronics & aerospace engineer. I build software, AI systems, robotics projects, and engineering tools to learn by doing. Most of my projects are part of a larger ecosystem under Draconis Engineering, where I explore the intersection of AI, software, robotics, and engineering.
 
 ## 🚀 Currently working on ...
 
 - `ICARUS`, a JARVIS-inspired agentic AI platform, made for STEM-related tasks.
-- `DuraPy`, The Durendal Engineering Python Collection - A growing collection of Python tools and libraries for mathematics, physics, robotics, and engineering.
+- `DuraPy`, The Draconis Engineering Python Collection - A growing collection of Python tools and libraries for mathematics, physics, robotics, and engineering.
 - `Vanguard`, an Obsidian-inspired knowledge platform with internet article ingestion, Markdown tooling, knowledge management, and AI integration.
 
 ## 🌱 I’m currently learning about...
@@ -28,5 +28,5 @@ Anyone that shares my interests and that are open to learning while doing.
 ## 📫 How to reach me:
 
 - Personal Instagram: [@Amundgaardz](https://www.instagram.com/amundgaardz/)
-- Durendal Engineering: [@DurendalEngineering](https://www.instagram.com/durendal.engineering/)
+- Draconis Engineering: [@DraconisEngineering](https://www.instagram.com/draconis.engineering/)
 - LinkedIn: [Simon Stordal Amundgård](https://www.linkedin.com/in/simon-stordal-amundgård-8ab984414)
