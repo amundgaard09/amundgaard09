@@ -10,12 +10,12 @@ Hi, I'm Simon, a 17 year old Norwegian student, triathlete, and aspiring mechatr
 
 ## 🌱 I’m currently learning about...
 
-- Python, C/C++, Rust, Fortran, Octave
+- Python, C/C++, Rust, Java, Fortran, Octave
 - AI systems and Machine learning
 - Embedded systems design and Robot Operating / Bare Metal Systems
 - Mechatronics, robotics and control theory
 - Aerospace, mechanical, and electronics engineering basics
-- 3D-Printing, circuit design, and CAD (especially Fusion360)
+- 3D-Printing, circuit design, and CAD (FreeCAD & KiCAD)
 
 Since I haven't really chosen what kind of engineer I want to be in the future, I am testing out multiple disciplines at once.
 
