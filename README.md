@@ -6,7 +6,7 @@ Hi, I'm Simon, a 17 year old Norwegian student, triathlete, and aspiring mechatr
 
 - `ICARUS`, a JARVIS-inspired agentic AI platform, made for STEM-related tasks.
 - `DuraPy`, The Draconis Engineering Python Collection - A growing collection of Python tools and libraries for mathematics, physics, robotics, and engineering.
-- `Vanguard`, an Obsidian-inspired knowledge platform with internet article ingestion, Markdown tooling, knowledge management, and AI integration.
+- `DracoLIX`, an advanced HPC-backend for the Draconis Ecosystem, written in Rust & Fortran.
 
 ## 🌱 I’m currently learning about...
 
