@@ -11,7 +11,10 @@ Hi, I'm Simon, a 17 year old Norwegian student, triathlete, and aspiring mechatr
 
 ## 🌱 I’m currently learning about...
 
-- Python, C/C++, Rust, Java, Fortran, Octave
+- Python for automation
+- C & C++ for low-level
+- Fortran & Julia for HPC/Scientific Computation
+- Shell & Go for CLI and tools
 - AI systems and Machine learning
 - Embedded systems design and Robot Operating / Bare Metal Systems
 - Mechatronics, robotics and control theory
