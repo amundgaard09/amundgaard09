@@ -56,7 +56,7 @@ A planned simulation platform exploring areas such as computational fluid dynami
 
 ### DraconiForge
 
-**DevOps Utilities*
+**DevOps & CI/CD Utilities**
 
 A simple, lightweight, but also powerful CLI utility that serves to make CI/CD easier via Git streamlining, project templates, and more.
 
